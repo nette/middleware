@@ -16,6 +16,7 @@
 	],
 	"require": {
 		"php": ">=7.1",
+		"nette/http": "^4.0",
 		"nette/utils": "^3.0.1"
 	},
 	"require-dev": {
